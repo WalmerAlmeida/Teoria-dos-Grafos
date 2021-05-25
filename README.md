@@ -1,6 +1,6 @@
 # Teoria-dos-Grafos
 
-Nomes: Walmer Almeida
+Nomes: Walmer Almeida e
       Anderson Rafhael
       
 O diretório e o nome para o grafo que ele lê é "teste/teste.txt". 
