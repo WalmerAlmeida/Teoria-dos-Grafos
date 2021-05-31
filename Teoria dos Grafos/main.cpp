@@ -111,6 +111,7 @@ int main(int argc,char **argv){
                 printf("A menor distância entre o vértice inicial(%d) --- vértice(%d) = %d\n", ini_vertex, i, distance[i]);
             }
         }
+        //Free para liberar memória alocada para o *vetor d
         free(distance);
         printf("\n");
         break;
